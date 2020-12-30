@@ -1,0 +1,5 @@
+#Excluimos la capeta OUT
+out
+
+#Excluimos la carpeta .IDEA
+.idea
